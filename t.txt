@@ -1,0 +1,10 @@
+Filesystem             Size  Used Avail Use% Mounted on
+devtmpfs               901M     0  901M   0% /dev
+tmpfs                  915M     0  915M   0% /dev/shm
+tmpfs                  915M  9.5M  906M   2% /run
+tmpfs                  915M     0  915M   0% /sys/fs/cgroup
+/dev/mapper/rhel-root   48G  5.8G   42G  13% /
+/dev/sda1             1014M  169M  846M  17% /boot
+tmpfs                  183M   28K  183M   1% /run/user/42
+tmpfs                  183M  5.7M  178M   4% /run/user/0
+/dev/sr0               6.7G  6.7G     0 100% /run/media/root/RHEL-8-0-0-BaseOS-x86_64
